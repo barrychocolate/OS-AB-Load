@@ -3,9 +3,7 @@
 
 
 This project includes the steps required to transfer the Ordnance Survey (OS) Address Base (AB) Plus csv data into an SQL database.
-It also includes the loading of the National Statistics Postcode Lookup (NSPL)
-
- into a table.
+It also includes the loading of the National Statistics Postcode Lookup (NSPL) into a table.
 
 Key points to note:
 
