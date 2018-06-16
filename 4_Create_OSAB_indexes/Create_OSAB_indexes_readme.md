@@ -1,0 +1,1 @@
+1 Run the Create_OSAB_indexes.sql script to create indexes.  You can skip this step and create your own indexes if you prefer.

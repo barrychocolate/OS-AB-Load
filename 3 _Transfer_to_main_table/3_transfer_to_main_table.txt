@@ -1,0 +1,2 @@
+1 Run transfer to main table script which copies the data from the 36 tables into the master table.
+2 Then run 3B to truncate all 36 temporary tables and then drop them
